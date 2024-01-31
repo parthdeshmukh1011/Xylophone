@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\build\windows\_deps\nuget-subbuild\CMakeFiles\ab7686d24a0016e30ff70b18f8b0a11b\nuget-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\build\windows\_deps\nuget-subbuild\CMakeFiles\ab7686d24a0016e30ff70b18f8b0a11b\nuget-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\build\windows\_deps\nuget-subbuild\CMakeFiles\ab7686d24a0016e30ff70b18f8b0a11b\nuget-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\build\windows\_deps\nuget-subbuild\CMakeFiles\ab7686d24a0016e30ff70b18f8b0a11b\nuget-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\build\windows\_deps\nuget-subbuild\CMakeFiles\ab7686d24a0016e30ff70b18f8b0a11b\nuget-populate-copyfile.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\build\windows\_deps\nuget-subbuild\CMakeFiles\ab7686d24a0016e30ff70b18f8b0a11b\nuget-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\build\windows\_deps\nuget-subbuild\CMakeFiles\ab7686d24a0016e30ff70b18f8b0a11b\nuget-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\build\windows\_deps\nuget-subbuild\CMakeFiles\ab7686d24a0016e30ff70b18f8b0a11b\nuget-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\build\windows\_deps\nuget-subbuild\CMakeFiles\ab7686d24a0016e30ff70b18f8b0a11b\nuget-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\build\windows\_deps\nuget-subbuild\CMakeFiles\06d864eb263fc59d50220e0c0ba17856\nuget-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\build\windows\_deps\nuget-subbuild\CMakeFiles\6ed65355a972898a7bad0d31000cb611\nuget-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\build\windows\_deps\nuget-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\build\windows\_deps\nuget-subbuild\CMakeFiles\nuget-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5AA81873-A0EC-3EDA-8495-C60A656FAEF3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

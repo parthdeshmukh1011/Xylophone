@@ -1,0 +1,174 @@
+^C:\USERS\DELL\DESKTOP\AGILE\APP PROJECTS\APP_PROJECTS\SELF_PRACTICE\XYLOPHONE\BUILD\WINDOWS\_DEPS\NUGET-SUBBUILD\CMAKEFILES\AB7686D24A0016E30FF70B18F8B0A11B\NUGET-POPULATE-MKDIR.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E make_directory "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-src"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E make_directory "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-build"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E make_directory "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/nuget-populate-prefix"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E make_directory "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/nuget-populate-prefix/tmp"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E make_directory "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/nuget-populate-prefix/src/nuget-populate-stamp/Debug"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E make_directory "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/nuget-populate-prefix/src"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E make_directory "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/nuget-populate-prefix/src/nuget-populate-stamp"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/nuget-populate-prefix/src/nuget-populate-stamp/Debug/nuget-populate-mkdir"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\DELL\DESKTOP\AGILE\APP PROJECTS\APP_PROJECTS\SELF_PRACTICE\XYLOPHONE\BUILD\WINDOWS\_DEPS\NUGET-SUBBUILD\CMAKEFILES\AB7686D24A0016E30FF70B18F8B0A11B\NUGET-POPULATE-DOWNLOAD.RULE
+setlocal
+cd "C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\build\windows\_deps"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -P "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/nuget-populate-prefix/src/nuget-populate-stamp/download-nuget-populate.cmake"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -P "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/nuget-populate-prefix/src/nuget-populate-stamp/verify-nuget-populate.cmake"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/nuget-populate-prefix/src/nuget-populate-stamp/Debug/nuget-populate-download"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\DELL\DESKTOP\AGILE\APP PROJECTS\APP_PROJECTS\SELF_PRACTICE\XYLOPHONE\BUILD\WINDOWS\_DEPS\NUGET-SUBBUILD\CMAKEFILES\AB7686D24A0016E30FF70B18F8B0A11B\NUGET-POPULATE-UPDATE.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/nuget-populate-prefix/src/nuget-populate-stamp/Debug/nuget-populate-update"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\DELL\DESKTOP\AGILE\APP PROJECTS\APP_PROJECTS\SELF_PRACTICE\XYLOPHONE\BUILD\WINDOWS\_DEPS\NUGET-SUBBUILD\CMAKEFILES\AB7686D24A0016E30FF70B18F8B0A11B\NUGET-POPULATE-PATCH.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/nuget-populate-prefix/src/nuget-populate-stamp/Debug/nuget-populate-patch"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\DELL\DESKTOP\AGILE\APP PROJECTS\APP_PROJECTS\SELF_PRACTICE\XYLOPHONE\BUILD\WINDOWS\_DEPS\NUGET-SUBBUILD\CMAKEFILES\AB7686D24A0016E30FF70B18F8B0A11B\NUGET-POPULATE-COPYFILE.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E copy_if_different "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/nuget-populate-prefix/src/nuget.exe" "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-src"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/nuget-populate-prefix/src/nuget-populate-stamp/Debug/nuget-populate-copyfile"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\DELL\DESKTOP\AGILE\APP PROJECTS\APP_PROJECTS\SELF_PRACTICE\XYLOPHONE\BUILD\WINDOWS\_DEPS\NUGET-SUBBUILD\CMAKEFILES\AB7686D24A0016E30FF70B18F8B0A11B\NUGET-POPULATE-CONFIGURE.RULE
+setlocal
+cd "C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\build\windows\_deps\nuget-build"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/nuget-populate-prefix/src/nuget-populate-stamp/Debug/nuget-populate-configure"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\DELL\DESKTOP\AGILE\APP PROJECTS\APP_PROJECTS\SELF_PRACTICE\XYLOPHONE\BUILD\WINDOWS\_DEPS\NUGET-SUBBUILD\CMAKEFILES\AB7686D24A0016E30FF70B18F8B0A11B\NUGET-POPULATE-BUILD.RULE
+setlocal
+cd "C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\build\windows\_deps\nuget-build"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/nuget-populate-prefix/src/nuget-populate-stamp/Debug/nuget-populate-build"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\DELL\DESKTOP\AGILE\APP PROJECTS\APP_PROJECTS\SELF_PRACTICE\XYLOPHONE\BUILD\WINDOWS\_DEPS\NUGET-SUBBUILD\CMAKEFILES\AB7686D24A0016E30FF70B18F8B0A11B\NUGET-POPULATE-INSTALL.RULE
+setlocal
+cd "C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\build\windows\_deps\nuget-build"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/nuget-populate-prefix/src/nuget-populate-stamp/Debug/nuget-populate-install"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\DELL\DESKTOP\AGILE\APP PROJECTS\APP_PROJECTS\SELF_PRACTICE\XYLOPHONE\BUILD\WINDOWS\_DEPS\NUGET-SUBBUILD\CMAKEFILES\AB7686D24A0016E30FF70B18F8B0A11B\NUGET-POPULATE-TEST.RULE
+setlocal
+cd "C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\build\windows\_deps\nuget-build"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/nuget-populate-prefix/src/nuget-populate-stamp/Debug/nuget-populate-test"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\DELL\DESKTOP\AGILE\APP PROJECTS\APP_PROJECTS\SELF_PRACTICE\XYLOPHONE\BUILD\WINDOWS\_DEPS\NUGET-SUBBUILD\CMAKEFILES\06D864EB263FC59D50220E0C0BA17856\NUGET-POPULATE-COMPLETE.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E make_directory "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/CMakeFiles/Debug"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/CMakeFiles/Debug/nuget-populate-complete"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/nuget-populate-prefix/src/nuget-populate-stamp/Debug/nuget-populate-done"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\DELL\DESKTOP\AGILE\APP PROJECTS\APP_PROJECTS\SELF_PRACTICE\XYLOPHONE\BUILD\WINDOWS\_DEPS\NUGET-SUBBUILD\CMAKEFILES\6ED65355A972898A7BAD0D31000CB611\NUGET-POPULATE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\DELL\DESKTOP\AGILE\APP PROJECTS\APP_PROJECTS\SELF_PRACTICE\XYLOPHONE\BUILD\WINDOWS\_DEPS\NUGET-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild" "-BC:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild" --check-stamp-file "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

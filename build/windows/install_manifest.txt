@@ -1,0 +1,17 @@
+C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/runner/Debug/audioplayers_windows_plugin.dll
+C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/runner/Debug/data/flutter_assets/assets/assets_note1.wav
+C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/runner/Debug/data/flutter_assets/assets/assets_note2.wav
+C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/runner/Debug/data/flutter_assets/assets/assets_note3.wav
+C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/runner/Debug/data/flutter_assets/assets/assets_note4.wav
+C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/runner/Debug/data/flutter_assets/assets/assets_note5.wav
+C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/runner/Debug/data/flutter_assets/assets/assets_note6.wav
+C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/runner/Debug/data/flutter_assets/assets/assets_note7.wav
+C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

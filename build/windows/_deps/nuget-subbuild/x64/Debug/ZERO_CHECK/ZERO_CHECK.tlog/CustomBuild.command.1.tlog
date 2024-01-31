@@ -1,0 +1,10 @@
+^C:\USERS\DELL\DESKTOP\AGILE\APP PROJECTS\APP_PROJECTS\SELF_PRACTICE\XYLOPHONE\BUILD\WINDOWS\_DEPS\NUGET-SUBBUILD\CMAKEFILES\6ED65355A972898A7BAD0D31000CB611\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild" "-BC:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/nuget-populate.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

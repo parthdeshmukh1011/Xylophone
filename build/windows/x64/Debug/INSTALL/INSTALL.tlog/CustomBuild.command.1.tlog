@@ -1,0 +1,10 @@
+^C:\USERS\DELL\DESKTOP\AGILE\APP PROJECTS\APP_PROJECTS\SELF_PRACTICE\XYLOPHONE\BUILD\WINDOWS\CMAKEFILES\881AFEC0C4B1C7B4FC3D59C894BE14EB\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

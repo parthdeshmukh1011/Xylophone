@@ -1,0 +1,49 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/CMakeFiles/nuget-populate"
+		},
+		{
+			"file" : "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/CMakeFiles/6ed65355a972898a7bad0d31000cb611/nuget-populate.rule"
+		},
+		{
+			"file" : "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/CMakeFiles/06d864eb263fc59d50220e0c0ba17856/nuget-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/CMakeFiles/ab7686d24a0016e30ff70b18f8b0a11b/nuget-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/CMakeFiles/ab7686d24a0016e30ff70b18f8b0a11b/nuget-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/CMakeFiles/ab7686d24a0016e30ff70b18f8b0a11b/nuget-populate-copyfile.rule"
+		},
+		{
+			"file" : "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/CMakeFiles/ab7686d24a0016e30ff70b18f8b0a11b/nuget-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/CMakeFiles/ab7686d24a0016e30ff70b18f8b0a11b/nuget-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/CMakeFiles/ab7686d24a0016e30ff70b18f8b0a11b/nuget-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/CMakeFiles/ab7686d24a0016e30ff70b18f8b0a11b/nuget-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/CMakeFiles/ab7686d24a0016e30ff70b18f8b0a11b/nuget-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/CMakeFiles/ab7686d24a0016e30ff70b18f8b0a11b/nuget-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"nuget-populate"
+		],
+		"name" : "nuget-populate"
+	}
+}

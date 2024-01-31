@@ -1,0 +1,10 @@
+^C:\USERS\DELL\DESKTOP\AGILE\APP PROJECTS\APP_PROJECTS\SELF_PRACTICE\XYLOPHONE\WINDOWS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/windows" "-BC:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows" --check-stamp-file "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

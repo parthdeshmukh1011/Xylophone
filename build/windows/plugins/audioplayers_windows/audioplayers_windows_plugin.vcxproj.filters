@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\windows\flutter\ephemeral\.plugin_symlinks\audioplayers_windows\windows\audioplayers_windows_plugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\windows\flutter\ephemeral\.plugin_symlinks\audioplayers_windows\windows\audio_player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\windows\flutter\ephemeral\.plugin_symlinks\audioplayers_windows\windows\MediaEngineExtension.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\windows\flutter\ephemeral\.plugin_symlinks\audioplayers_windows\windows\MediaEngineWrapper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\windows\flutter\ephemeral\.plugin_symlinks\audioplayers_windows\windows\audio_player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\windows\flutter\ephemeral\.plugin_symlinks\audioplayers_windows\windows\event_stream_handler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\windows\flutter\ephemeral\.plugin_symlinks\audioplayers_windows\windows\MediaEngineExtension.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\windows\flutter\ephemeral\.plugin_symlinks\audioplayers_windows\windows\MediaFoundationHelpers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\windows\flutter\ephemeral\.plugin_symlinks\audioplayers_windows\windows\MediaEngineWrapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\windows\flutter\ephemeral\.plugin_symlinks\audioplayers_windows\windows\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{1871CACA-8418-3DDF-92CC-7E7E88842980}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{FBADB06F-3B42-3B7A-B1FC-040CFBC45B9C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

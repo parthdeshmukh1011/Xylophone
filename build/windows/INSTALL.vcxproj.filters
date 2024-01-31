@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\build\windows\CMakeFiles\881afec0c4b1c7b4fc3d59c894be14eb\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3A07A465-2DD9-3BCF-9502-055EB329F107}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

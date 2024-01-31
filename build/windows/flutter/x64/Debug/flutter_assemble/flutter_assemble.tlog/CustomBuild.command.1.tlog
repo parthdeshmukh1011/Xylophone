@@ -1,0 +1,28 @@
+^C:\USERS\DELL\DESKTOP\AGILE\APP PROJECTS\APP_PROJECTS\SELF_PRACTICE\XYLOPHONE\BUILD\WINDOWS\CMAKEFILES\B2167C7B0E2A7D2ED85F6C93EC00B04B\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env "FLUTTER_ROOT=C:\Users\DELL\Desktop\Agile\App Projects\flutter" "PROJECT_DIR=C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone" "FLUTTER_ROOT=C:\Users\DELL\Desktop\Agile\App Projects\flutter" "FLUTTER_EPHEMERAL_DIR=C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\windows\flutter\ephemeral" "PROJECT_DIR=C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone" "FLUTTER_TARGET=C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\lib\main.dart" DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\.dart_tool\package_config.json" "C:/Users/DELL/Desktop/Agile/App Projects/flutter/packages/flutter_tools/bin/tool_backend.bat" windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\DELL\DESKTOP\AGILE\APP PROJECTS\APP_PROJECTS\SELF_PRACTICE\XYLOPHONE\BUILD\WINDOWS\CMAKEFILES\E7DBCD8F6DF6C12750ED23F18B951787\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\DELL\DESKTOP\AGILE\APP PROJECTS\APP_PROJECTS\SELF_PRACTICE\XYLOPHONE\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/windows" "-BC:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows" --check-stamp-file "C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

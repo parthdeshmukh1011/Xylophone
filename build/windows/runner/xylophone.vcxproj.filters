@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\windows\runner\flutter_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\windows\runner\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\windows\runner\utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\windows\runner\win32_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\windows\flutter\generated_plugin_registrant.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\windows\runner\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\DELL\Desktop\Agile\App Projects\App_Projects\self_practice\xylophone\windows\runner\Runner.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{FBADB06F-3B42-3B7A-B1FC-040CFBC45B9C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

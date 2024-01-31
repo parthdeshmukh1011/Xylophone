@@ -1,0 +1,15 @@
+# Target labels
+ nuget-populate
+# Source files and their labels
+C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/CMakeFiles/nuget-populate
+C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/CMakeFiles/6ed65355a972898a7bad0d31000cb611/nuget-populate.rule
+C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/CMakeFiles/06d864eb263fc59d50220e0c0ba17856/nuget-populate-complete.rule
+C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/CMakeFiles/ab7686d24a0016e30ff70b18f8b0a11b/nuget-populate-build.rule
+C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/CMakeFiles/ab7686d24a0016e30ff70b18f8b0a11b/nuget-populate-configure.rule
+C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/CMakeFiles/ab7686d24a0016e30ff70b18f8b0a11b/nuget-populate-copyfile.rule
+C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/CMakeFiles/ab7686d24a0016e30ff70b18f8b0a11b/nuget-populate-download.rule
+C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/CMakeFiles/ab7686d24a0016e30ff70b18f8b0a11b/nuget-populate-install.rule
+C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/CMakeFiles/ab7686d24a0016e30ff70b18f8b0a11b/nuget-populate-mkdir.rule
+C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/CMakeFiles/ab7686d24a0016e30ff70b18f8b0a11b/nuget-populate-patch.rule
+C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/CMakeFiles/ab7686d24a0016e30ff70b18f8b0a11b/nuget-populate-test.rule
+C:/Users/DELL/Desktop/Agile/App Projects/App_Projects/self_practice/xylophone/build/windows/_deps/nuget-subbuild/CMakeFiles/ab7686d24a0016e30ff70b18f8b0a11b/nuget-populate-update.rule
